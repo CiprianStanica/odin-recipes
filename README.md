@@ -1,0 +1,1 @@
+This is my first project. During it, I will demonstrate my coding in VsCode skills, the fact that I know how to make an webpage
