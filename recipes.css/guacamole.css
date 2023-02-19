@@ -1,0 +1,24 @@
+.h1 span,
+h2 span {
+    color:rgb(201, 183, 103);
+    background-color: rgb(70, 21, 13);
+    background: position 50px;
+}
+
+.img {
+    width: 400px;
+    position: relative;
+    padding-left: 100px;
+}
+
+.description ,
+.ingredients ,
+.Steps {
+    font-family: sans-serif;
+    font-style: italic;
+
+}
+
+.body {
+    background-color: rgb(212, 209, 202);
+}
